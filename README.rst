@@ -1,40 +1,27 @@
-AlertOps Expert Guidance
+Integrate Your Incident Management Tool into Your Scheduling System
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ Managed service providers (MSPs) are becoming exceedingly important to organizations around the world. MSPs deliver network, application, system and e-management services across a network. As more companies embrace digital transformation, bring-your-own-device (BYOD) and other revolutionary technologies and processes, the demand for MSPs is expected to increase substantially in the foreseeable future.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+The global managed services market could be worth nearly $258 billion by 2022, according to market research firm Markets and Markets. MSPs likely will need to do everything possible to differentiate themselves from rivals in this rapidly expanding market. Fortunately, incident management and alert escalation software offers an effective way for MSPs to do just that.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Incident management software could play a pivotal role in how an MSP builds long-lasting customer partnerships. This software helps MSPs quickly identify and resolve incidents. It also ensures MSPs can maintain consistent service levels and comply with service-level agreements (SLAs).
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+To better understand the importance of incident management software for MSPs, let’s consider this scenario: you’re an MSP for a cloud hosting solution and have an IT support team that includes five on-call support techs who provide 24/7 support  . Since there are five techs on your staff, each rotates as the “primary” point of contact who receives all priority 1 alerts. You’ve also set up an incident management tool that functions on a constant rotation cycle among your five techs.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+But what happens when one of your techs goes on vacation? Typically, a tech will submit a time-off request, receive a manager’s approval and enter the time-off information into a scheduling system. But if you forget to change the schedule on your alert notification system, your company, its employees and its customers may be in trouble.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+In this scenario, your priority 1 alerts will continue to go to the vacationing tech’s inbox without him or her knowing about them. And in all likelihood, you won’t find out about this problem until it’s too late, i.e. when downtime, outages and other critical incidents start to affect your company and its key stakeholders.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Now, imagine what it would be like if you use a “smart” incident management system that integrates seamlessly with your scheduling system and automatically updates the on-call rotation schedule. This system would ensure incident management team members can change their “availability schedule” in one system and have it picked up automatically in your on-call scheduling system. It would even work with you on your schedules to ensure all critical notifications are addressed – without exception.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+An effective alert management and escalation system works in conjunction with a wide range of scheduling systems. It has smart functions like a “cover feature” that ensures alerts are routed properly based on each incident management team member’s availability. This ultimately could prove to be the difference between an MSP’s on-call support techs resolving an issue within 5 minutes or 55 minutes.
 
-1 Red Canary 2021 Threat Detection Report
+When you’re an MSP with expectations of a very high level of uptime, even a single incident can end up costing you tremendously. Thanks to an effective incident management system, however, you can manage risk like never before. This system helps you track alerts and ensure available incident management team members receive the right notifications every time. As a result, your company can use the system to minimize the risk of downtime, outages and other costly, time-consuming incidents.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/incident-management-schedule/
 
 Read more:
 ====
